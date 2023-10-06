@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-10 bg-[#e0e0e9] text-black'>
         <div className='mt-3'>
-            <img src={Logo} alt='Logo image' style={{width: '190px'}}/>
+            <img src={Logo} alt='Logo' style={{width: '190px'}}/>
         </div>
         <ul className='hidden md:flex'>
             <li className='text-xl'>Home</li>
