@@ -9,17 +9,17 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav)
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-10 bg-[#e0e0e9] text-black'>
+    <div className='fixed w-full h-[75px] flex justify-between items-center px-10 bg-[#e0e0e9] text-black'>
         <div className='mt-3'>
             <img src={Logo} alt='Logo' style={{width: '190px'}}/>
         </div>
         <ul className='hidden md:flex'>
-            <li className='text-xl'>Home</li>
-            <li className='text-xl'>About</li>
-            <li className='text-xl'>Experience</li>
-            <li className='text-xl'>Projects</li>
-            <li className='text-xl'>Skills</li>
-            <li className='text-xl'>Contact</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>Home</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>About</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>Skills & Technologies</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>Projects</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>Skills</li>
+            <li className='text-xl font-bold hover:scale-110 duration-500'>Contact</li>
         </ul>
 
         {/* Bar icon */}
@@ -31,7 +31,7 @@ const Navbar = () => {
         <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#DEE1DD] flex flex-col justify-center items-center'}>
             <li className='py-6 text-4xl'>Home</li>
             <li className='py-6 text-4xl'>About</li>
-            <li className='py-6 text-4xl'>Experience</li>
+            <li className='py-6 text-4xl'>Skills & Technologies</li>
             <li className='py-6 text-4xl'>Projects</li>
             <li className='py-6 text-4xl'>Skills</li>
             <li className='py-6 text-4xl'>Contact</li>
