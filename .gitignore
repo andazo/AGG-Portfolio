@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock
 
-package-lock.json
-package.json
-postcss.config.js
+.package-lock.json
+.package.json
+.postcss.config.js
