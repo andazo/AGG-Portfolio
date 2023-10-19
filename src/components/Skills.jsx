@@ -16,9 +16,9 @@ import Github from '../assets/github.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-[#0a192f] text-gray-300'>
+    <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300'>
         {/* Main container with skills */}
-        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-[55%]'>
             <div>
                 <p className='text-5xl font-bold inline border-b-4 border-purple-600 py-1'>Skills & Technologies</p>
                 <p className='py-5 font-bold text-xl'>Some of the technologies and Frameworks I've worked with</p>
