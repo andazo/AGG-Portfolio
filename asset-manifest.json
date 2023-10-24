@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AGG-Portfolio/static/css/main.50faa57d.css",
-    "main.js": "/AGG-Portfolio/static/js/main.abd2d83f.js",
+    "main.css": "/AGG-Portfolio/static/css/main.4c2b2126.css",
+    "main.js": "/AGG-Portfolio/static/js/main.be95ca57.js",
     "static/media/EcciPassFoto.png": "/AGG-Portfolio/static/media/EcciPassFoto.49578a4e82977670b353.png",
     "static/media/DeFeriaFoto.png": "/AGG-Portfolio/static/media/DeFeriaFoto.37c6c2cb32223d8ad009.png",
     "static/media/FotoKaneTaxi.png": "/AGG-Portfolio/static/media/FotoKaneTaxi.2b77cac063841670d089.png",
@@ -17,11 +17,11 @@
     "static/media/firebase.png": "/AGG-Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/AGG-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/AGG-Portfolio/index.html",
-    "main.50faa57d.css.map": "/AGG-Portfolio/static/css/main.50faa57d.css.map",
-    "main.abd2d83f.js.map": "/AGG-Portfolio/static/js/main.abd2d83f.js.map"
+    "main.4c2b2126.css.map": "/AGG-Portfolio/static/css/main.4c2b2126.css.map",
+    "main.be95ca57.js.map": "/AGG-Portfolio/static/js/main.be95ca57.js.map"
   },
   "entrypoints": [
-    "static/css/main.50faa57d.css",
-    "static/js/main.abd2d83f.js"
+    "static/css/main.4c2b2126.css",
+    "static/js/main.be95ca57.js"
   ]
 }
