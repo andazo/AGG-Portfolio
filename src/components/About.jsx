@@ -22,7 +22,7 @@ const About = () => {
           <div>
             <p className="font-bold text-lg">
               I am passionate software developer with an aptitude for crafting
-              exceptional and inclusive web experiences. When I'm not immersed
+              exceptional and inclusive digital experiences. When I'm not immersed
               in the world of software and computers, you'll find me exploring my diverse
               interests, from sports to space, design to engineering. I cherish
               quality time with my dog, family, and close friends.
